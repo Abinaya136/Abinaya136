@@ -20,11 +20,7 @@
 
 ## 👩‍💻 About Me
 
-I'm Abinaya R, a Computer Science Engineering undergraduate at Nandha Engineering College, Erode, India, with a CGPA of 8.5. I work primarily with Java and Python, building AI/ML projects using PyTorch and OpenCV — from emotion detection systems to IoT-based assistive devices for people with disabilities.
-
-I'm currently expanding into Cloud Computing and Data Analytics, and I'm always up for internships and collaborative projects. A fun fact about me: I once improved my national exam rank by 4,082 places in a single year.
-
-**My motto:** *Building AI that listens, sees, and helps people.*
+I'm Abinaya R, a passionate Computer Science Engineering undergraduate at Nandha Engineering College, Erode, driven by a strong interest in software development, artificial intelligence, and emerging technologies. I enjoy transforming innovative ideas into practical solutions and have worked on projects spanning AI, Machine Learning, Computer Vision, and IoT, with a focus on solving real-world challenges and creating meaningful impact.I'm currently expanding into Cloud Computing and Data Analytics with a commitment to continuous growth and excellence and I'm always up for internships and collaborative projects.While actively seeking opportunities to learn, collaborate, and contribute to innovative projects. I strive to transform ideas into practical solutions that create value and inspire change.
 
 <br/>
 
