@@ -83,26 +83,32 @@ print(me.motto())
 
 ## 📊 GitHub Stats
 
-<div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Abinaya136&show_icons=true&theme=tokyonight&bg_color=0d1117&hide_border=true" width="48%" />
+<p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abinaya136&layout=compact&theme=tokyonight&bg_color=0d1117&hide_border=true" width="38%" />
+<img src="https://github-readme-stats.vercel.app/api?username=Abinaya136&amp;show_icons=true&amp;theme=tokyonight&amp;bg_color=0d1117&amp;hide_border=true" width="48%" />
 
-<br/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abinaya136&amp;layout=compact&amp;theme=tokyonight&amp;bg_color=0d1117&amp;hide_border=true" width="38%" />
 
-<img src="https://streak-stats.demolab.com?user=Abinaya136&theme=tokyonight&background=0D1117&hide_border=true" width="60%" />
+</p>
 
-<br/>
+<p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Abinaya136&theme=tokyo-night&bg_color=0d1117&hide_border=true" width="95%" />
+<img src="https://streak-stats.demolab.com?user=Abinaya136&amp;theme=tokyonight&amp;background=0D1117&amp;hide_border=true" width="60%" />
 
-<br/>
+</p>
 
-<img src="https://github-profile-trophy.vercel.app/?username=Abinaya136&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6" width="95%" />
+<p align="center">
 
-</div>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Abinaya136&amp;theme=tokyo-night&amp;bg_color=0d1117&amp;hide_border=true" width="95%" />
 
+</p>
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Abinaya136&amp;theme=tokyonight&amp;no-frame=true&amp;no-bg=true&amp;row=1&amp;column=6" width="95%" />
+
+</p>
 ## 💼 Experience
 
 ### AI Intern — Foundations of AI
