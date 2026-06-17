@@ -20,7 +20,7 @@
 
 ## 👩‍💻 About Me
 
-I'm Abinaya R, a final-year Computer Science Engineering student at Nandha Engineering College, driven by a strong interest in software development, artificial intelligence, and emerging technologies. I enjoy transforming innovative ideas into practical solutions and have worked on projects spanning AI, Machine Learning, Computer Vision, and IoT focusing on solving real-world challenges while creating meaningful impact. Currently, I am expanding my expertise in Cloud Computing and Data Analytics, while continuously striving for growth and excellence. Eager to learn, collaborate and contribute to innovative projects, I actively seek opportunities that enhance my technical skills and broaden my experience. With a passion for technology and problem-solving, I aim to build solutions that create value, inspire change, and make a positive impact on society.
+I'm Abinaya R, a final-year Computer Science Engineering student at Nandha Engineering College, driven by a strong interest in software development, artificial intelligence, and emerging technologies. I enjoy transforming innovative ideas into practical solutions and have worked on projects spanning AI, Machine Learning, Computer Vision and IoT focusing on solving real-world challenges while creating meaningful impact. Currently, I am expanding my expertise in Cloud Computing and Data Analytics, while continuously striving for growth and excellence. Eager to learn, collaborate and contribute to innovative projects, I actively seek opportunities that enhance my technical skills and broaden my experience. With a passion for technology and problem-solving, I aim to build solutions that create value, inspire change and make a positive impact on society.
 <br/>
 
 ## 🛠️ Tech Stack
