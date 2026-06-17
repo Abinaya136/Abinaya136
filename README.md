@@ -20,24 +20,11 @@
 
 ## 👩‍💻 About Me
 
-```python
-class Abinaya:
-    def __init__(self):
-        self.name = "Abinaya R"
-        self.location = "Erode, Tamil Nadu, India"
-        self.degree = "B.E. Computer Science Engineering @ Nandha Engineering College"
-        self.cgpa = "8.5"
-        self.stack = ["Java", "Python", "PyTorch", "OpenCV"]
-        self.currently_learning = ["Cloud Computing", "Data Analytics"]
-        self.fun_fact = "Improved my national exam rank by 4,082 places in a single year!"
+I'm Abinaya R, a Computer Science Engineering undergraduate at Nandha Engineering College, Erode, India, with a CGPA of 8.5. I work primarily with Java and Python, building AI/ML projects using PyTorch and OpenCV — from emotion detection systems to IoT-based assistive devices for people with disabilities.
 
-    def motto(self):
-        return "Building AI that listens, sees, and helps people."
+I'm currently expanding into Cloud Computing and Data Analytics, and I'm always up for internships and collaborative projects. A fun fact about me: I once improved my national exam rank by 4,082 places in a single year.
 
-
-me = Abinaya()
-print(me.motto())
-```
+**My motto:** *Building AI that listens, sees, and helps people.*
 
 <br/>
 
